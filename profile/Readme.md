@@ -1,4 +1,4 @@
-#Simplifying DeFi investments through automated token baskets on the Internet Computer
+# Simplifying DeFi investments through automated token baskets on the Internet Computer
 
 
 ## 📚 Table of Contents
