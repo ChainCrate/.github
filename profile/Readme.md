@@ -32,19 +32,19 @@ xchaincrate is a decentralized investment protocol that enables users to invest 
 Automated Portfolio Diversification: Intelligently spreads investments across different tokens based on predefined strategies
 Investment Baskets: Pre-configured token baskets optimized for different investment goals:
 
-## BTC Basket: Bitcoin-focused investments
-## DeFi Basket: Popular DeFi protocol tokens
-## Meme Basket: High-volatility meme tokens
-## Stable Basket: Stablecoin-focused for reduced volatility
+- BTC Basket: Bitcoin-focused investments
+- DeFi Basket: Popular DeFi protocol tokens
+- Meme Basket: High-volatility meme tokens
+- Stable Basket: Stablecoin-focused for reduced volatility
 
 
 ## IC Alloy Integration
 
-## Cross-Chain Communication: Leverages IC Alloy's secure bridge for Ethereum interaction
-## Native IC Integration: Seamlessly works with Internet Computer canisters
-## Ethereum Compatibility: Direct interaction with Uniswap V3 contracts
-## State Management: Efficient handling of cross-chain state updates
-## Transaction Processing: Reliable execution of Ethereum transactions from IC
+- Cross-Chain Communication: Leverages IC Alloy's secure bridge for Ethereum interaction
+- Native IC Integration: Seamlessly works with Internet Computer canisters
+- Ethereum Compatibility: Direct interaction with Uniswap V3 contracts
+- State Management: Efficient handling of cross-chain state updates
+- Transaction Processing: Reliable execution of Ethereum transactions from IC
 
 
 
