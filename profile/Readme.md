@@ -38,4 +38,13 @@ Investment Baskets: Pre-configured token baskets optimized for different investm
 ## Stable Basket: Stablecoin-focused for reduced volatility
 
 
+## IC Alloy Integration
+
+## Cross-Chain Communication: Leverages IC Alloy's secure bridge for Ethereum interaction
+## Native IC Integration: Seamlessly works with Internet Computer canisters
+## Ethereum Compatibility: Direct interaction with Uniswap V3 contracts
+## State Management: Efficient handling of cross-chain state updates
+## Transaction Processing: Reliable execution of Ethereum transactions from IC
+
+
 
