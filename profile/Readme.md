@@ -16,6 +16,8 @@
 ## 🌟 Overview
 xchaincrate is a decentralized investment protocol that enables users to invest in curated token baskets with a single transaction. Built on the Internet Computer Protocol, it offers:
 
+![Architecture Diagram](./Screenshot from 2024-11-10 13-21-50.png)
+
 -🎯 One-click diversified investments
 -💸 Gas-optimized automated swaps
 -📊 Real-time portfolio tracking
