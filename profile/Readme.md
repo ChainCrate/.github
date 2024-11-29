@@ -2,6 +2,10 @@
 
 XChainCrate is a decentralized investment protocol built on Internet Computer that enables automated portfolio management through curated token baskets. By pooling ETH deposits until reaching optimal thresholds, it provides gas-efficient diversification across multiple tokens.
 
+### mainnet canister links
+ - frontend : https://xh7me-2iaaa-aaaam-qb5cq-cai.icp0.io/
+ - backend : https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=4d4xf-kiaaa-aaaah-aq3ia-cai
+
 ## 🌟 Core Features
 
 ### Token Basket Investment
